@@ -3,7 +3,7 @@ Lamp diffuser prototype for an engineering design course with a Star Wars twist.
 
 https://github.com/user-attachments/assets/3a8fd2aa-34e7-4ae4-ad75-928d8077166b
 
-### Photos:
+### Photos
 <p float="left">
   <img src="https://github.com/user-attachments/assets/1a94a4c9-51a2-4b70-9a20-82a423b8bef3" width="400" />
   <img src="https://github.com/user-attachments/assets/ff966439-1d73-4654-8630-b17b4d8fa4c2" width="400" /> 
