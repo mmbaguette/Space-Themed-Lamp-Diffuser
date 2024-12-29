@@ -15,6 +15,6 @@ https://github.com/user-attachments/assets/3a8fd2aa-34e7-4ae4-ad75-928d8077166b
 
 ### CAD images
 <p float="left">
-  <img width="450" alt="CAD of the sphere-shaped lamp diffuser in OnShape" src="https://github.com/user-attachments/assets/7cbf58db-3aa0-48e3-9f28-3b9a610405a9" />
-  <img width="450" alt="CAD of the base in OnShape" src="https://github.com/user-attachments/assets/fdf4b6d1-dfd8-4e69-910b-6f74cb5cba4d" />
+  <img width="400" alt="CAD of the sphere-shaped lamp diffuser in OnShape" src="https://github.com/user-attachments/assets/7cbf58db-3aa0-48e3-9f28-3b9a610405a9" />
+  <img width="400" alt="CAD of the base in OnShape" src="https://github.com/user-attachments/assets/fdf4b6d1-dfd8-4e69-910b-6f74cb5cba4d" />
 </p>
