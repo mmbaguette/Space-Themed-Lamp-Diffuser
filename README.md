@@ -1,4 +1,4 @@
-# Space-Themed-Lamp-Diffuser
+# Space-Themed Lamp Diffuser
 Lamp diffuser prototype for an engineering design course with a Star Wars twist. You can slide the bottom half to display stars on the ceiling at night.
 
 https://github.com/user-attachments/assets/3a8fd2aa-34e7-4ae4-ad75-928d8077166b
